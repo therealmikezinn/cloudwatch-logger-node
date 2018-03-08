@@ -28,7 +28,7 @@ logger.add('log', {
 }).add('info', {
     logStreamName: 'info',
     logGroupName: 'test',
-}).add('shazam', {
+}).add('error', {
     logStreamName: 'error',
     logGroupName: 'test',
 }).on('error', function(err) {

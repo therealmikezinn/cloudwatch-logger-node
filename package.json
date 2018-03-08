@@ -6,5 +6,10 @@
   "dependencies": {
     "aws-sdk": "^2.186.0",
     "js-type-checker": "^1.0.0"
+  },
+  "author": "Mike Zinn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealmikezinn/cloudwatch-logger-node.git"
   }
 }
